@@ -23,6 +23,6 @@ To run this project in your local machine
 
  * Given below are the valid CLI commands
 
-    *   => node liri my-tweets <twitter_handle>
-    *   => node liri spotify-this-song <song name>
-    *   => node liri movie-this <movie name>
+    *   `node liri my-tweets <twitter_handle>`
+    *   `node liri spotify-this-song <song name>`
+    *   `node liri movie-this <movie name>`
