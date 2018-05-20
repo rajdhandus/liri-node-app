@@ -110,6 +110,7 @@ function mainFunc(param1, param2) {
     logWriter("   => my-tweets <twitter_handle>");
     logWriter("   => spotify-this-song <song name>");
     logWriter("   => movie-this <movie name>");
+    logWriter("   => do-what-it-says");
   }
 }
 
